@@ -1,2 +1,2 @@
 # Computational-Thinking
-大一校必修
+大一校必修 - 
