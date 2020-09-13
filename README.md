@@ -8,5 +8,8 @@
 
 注意事項公告：
 
+[教學進度與內容](https://colab.research.google.com/drive/1ewomNVo0EZTNk6a8dwJQg_AHruXEICh0?usp=sharing)
+
+
 
 
