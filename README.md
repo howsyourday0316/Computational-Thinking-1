@@ -3,7 +3,7 @@
 
 [課程網頁](https://github.com/HungHuaTien/Computational-Thinking/)
 
-[講義下載](https://is.gd/jB0BQE)
+[更新講義下載](https://is.gd/jB0BQE)
 
 
 注意事項公告：
