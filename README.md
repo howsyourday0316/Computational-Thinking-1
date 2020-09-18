@@ -1,6 +1,8 @@
 # Computational-Thinking
 大一校必修 - 運算思維與程式設計
 
+Email/FB: BigflowerFrancis@gmail.com
+
 [課程網頁](https://github.com/HungHuaTien/Computational-Thinking/)
 
 [更新講義下載](https://is.gd/jB0BQE)
