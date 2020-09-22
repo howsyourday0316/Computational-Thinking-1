@@ -3,7 +3,7 @@
 
 Email/FB: BigflowerFrancis@gmail.com
 
-[課程網頁](https://github.com/HungHuaTien/Computational-Thinking/)
+[課程FB社團](https://www.facebook.com/groups/314342339656097/)
 
 [更新講義下載](https://is.gd/jB0BQE)
 
